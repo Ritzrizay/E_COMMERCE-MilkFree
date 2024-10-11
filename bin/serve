@@ -1,0 +1,4 @@
+<?php
+
+
+exec("php -s localhost:8000 -t public");
